@@ -1,3 +1,5 @@
+![Banner](https://www.upload.ee/image/17219970/Yeni_Proje.png)
+
 # Shrinkit
 Shrinkit is a fast, secure and user-friendly image compression application. Users can upload an unlimited number of files, reduce the size of those files and download the compressed image when the process is complete.
 
