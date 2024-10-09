@@ -10,7 +10,7 @@
 
 <div class="container mx-auto py-10">
     <h2 class="text-2xl font-bold mb-6">Shrinkit vs Others</h2>
-    <div class="overflow-x-auto">
+    <div class="overflow-x-auto rounded-xl">
         <table class="w-full border-collapse">
             <thead>
                 <tr class="bg-cRed text-white">

@@ -71,7 +71,7 @@
         <div class="flex flex-col lg:flex-row items-center justify-between">
             <div class="w-full lg:w-1/2 mb-8 lg:mb-0 lg:pr-8">
                 <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 leading-tight">Welcome to Shrinkit</h1>
-                <p class="text-lg mb-6 opacity-90">Fast, secure, and easy image uploading</p>
+                <p class="text-lg mb-6 opacity-90">Fast, secure, and easy image compression</p>
                 <ul class="mb-6 space-y-3">
                     <li class="flex items-center">
                         <i class="ri-check-line mr-3 text-xl"></i>
